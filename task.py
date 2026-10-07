@@ -43,8 +43,8 @@ class Seq:
         """
         nucleotides = "ACGTUN"
         subsequence = self.sequence
-        for nucleotides in subsequence:
-            if nucleotides not in subsequence:
+        for symbol in subsequence:
+            if symbol not in nucleotides:
                 return("Белок")
         return("Нуклетотидная последовательность")
 
