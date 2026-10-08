@@ -21,3 +21,4 @@ pip install sphinx sphinx-rtd-theme
 ```bash
 python3 task.py
 ```
+UML-диаграмма создана с помощью сайта https://app.diagrams.net/
