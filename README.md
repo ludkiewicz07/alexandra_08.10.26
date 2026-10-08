@@ -13,7 +13,7 @@ pip install sphinx sphinx-rtd-theme
    ```
 2. Запустите сборку HTML-страниц:
    ```bash
-   make clean && make html
+   make html
    ```
 3. Для просмотра готовой документации откройте в браузере файл: `docs/build/html/task.html` (или `modules.html`).
 3. Запуск основной программы
